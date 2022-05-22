@@ -2,7 +2,8 @@
 🌱I'm currently learning React.js, TypeScript and NestJS.
 🐱‍👤I want to become a JS Ninja in the future.
 🐕I love dogs.
-🌌I'm a big fan of the Star Wars universe.
+🌌I'm a big fan of the Star Wars universe. 
+CV: [get the PDF]()
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-stasak) 
