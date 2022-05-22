@@ -1,8 +1,8 @@
 # 💫About Me :
-🌱I'm currently learning React.js, TypeScript and NestJS.
-🐱‍👤I want to become a JS Ninja in the future.
-🐕I love dogs.
-🌌I'm a big fan of the Star Wars universe. 
+🌱I'm currently learning React.js, TypeScript and NestJS.<br/>
+🐱‍👤I want to become a JS Ninja in the future.<br/>
+🐕I love dogs.<br/>
+🌌I'm a big fan of the Star Wars universe.<br/>
 📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2022_v2.pdf)
 
 ## 🌐Socials
