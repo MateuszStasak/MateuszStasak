@@ -3,7 +3,11 @@
 🐱‍👤I want to become a JS Ninja in the future.<br/>
 🐕I love dogs.<br/>
 🌌I'm a big fan of the Star Wars universe.<br/>
-📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2022_v2.pdf)
+📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2022_v2.pdf) <br/>
+⚡My demo apps will appear here: <br/>
+<ul>
+  <li>https://msmegaads.networkmanager.pl/ - React + Node on Linux Server</li>
+</ul>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-stasak) 
