@@ -6,7 +6,7 @@
 📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2022_v2.pdf) <br/>
 ⚡My demo apps will appear here: <br/>
 <ul>
-  <li>https://msmegaads.networkmanager.pl/ - React + Node on Linux Server</li>
+  <li>https://msmegaads.networkmanager.pl/ - React + Node + MySQL on Linux Server</li>
 </ul>
 
 ## 🌐Socials
