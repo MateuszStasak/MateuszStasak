@@ -1,10 +1,11 @@
-# 💫About Me :
-🌱I'm currently learning React.js, TypeScript and NestJS.<br/>
-🐱‍👤I want to become a JS Ninja in the future.<br/>
-🐕I love dogs.<br/>
-🌌I'm a big fan of the Star Wars universe.<br/>
-📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2022_v2.pdf) <br/>
-⚡My demo apps will appear here: <br/>
+# 💫 About Me :
+🌱 I'm currently learning React.js, TypeScript and NestJS.<br/>
+🐱‍ 👤I want to become a JS Ninja in the future.<br/>
+🐕 I love dogs.<br/>
+🌌 I'm a big fan of the Star Wars universe.<br/>
+📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV.pdf) <br/>
+:point_right: Repository with MEGAK Course final project :point_right: https://github.com/MT0101/nestjs_autotrader <br/>
+⚡ My demo apps will appear here: <br/>
 <ul>
   <li>https://msmegaads.networkmanager.pl/ - React + Node + MySQL on Linux Server</li>
 </ul>
