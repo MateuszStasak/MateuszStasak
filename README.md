@@ -3,7 +3,7 @@
 🐱‍ 👤I want to become a JS Ninja in the future.<br/>
 🐕 I love dogs.<br/>
 🌌 I'm a big fan of the Star Wars universe.<br/>
-📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_CV_2023.pdf) <br/>
+📄 [CV](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2024.pdf) <br/>
 :point_right: Repository with MEGAK Course final project :point_right: https://github.com/MT0101/nestjs_autotrader ( ❗ to refactor )<br/> 
 ⚡ My demo apps will appear here: <br/>
 <ul>
