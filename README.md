@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszstasak&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszstasak" /> </p>
 
 # 💫 About Me :
-- 🌱 I’m currently learning **...everything - I am junior... :/**
-- 👨‍💻 All of my projects are available at [coming soon]()
 - 👨‍💻 I want to become a great human software engineer in the future
 - 🐕 I love dogs<br/>
 - 🌌 I'm a big fan of the Star Wars universe (but not current Disney stuff...)
-- 📄 Know about my experiences [https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2024.pdf](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2024.pdf)
+- 📄 Know about my experiences [https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2025.pdf](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2025.pdf)
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **mstasaq@gmail.com**
 - ⚡ Fun fact **I think I am funny and I can bend my phalanges like a monkey**
