@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszstasak&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszstasak" /> </p>
 
 # 💫 About Me :
-- 👨‍💻 I want to become a great human software engineer in the future
-- 🐕 I love dogs<br/>
+- ⏳ I have 3+ years of experience as a dev
 - 🌌 I'm a big fan of the Star Wars universe (but not current Disney stuff...)
 - 📄 Know about my experiences [https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume.pdf](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume.pdf)
 - 💬 Ask me about **Anything**
