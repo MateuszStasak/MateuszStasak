@@ -7,7 +7,7 @@
 - 👨‍💻 I want to become a great human software engineer in the future
 - 🐕 I love dogs<br/>
 - 🌌 I'm a big fan of the Star Wars universe (but not current Disney stuff...)
-- 📄 Know about my experiences [https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2025.pdf](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume_2025.pdf)
+- 📄 Know about my experiences [https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume.pdf](https://github.com/MateuszStasak/resume/blob/main/Mateusz_Stasak_Resume.pdf)
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **mstasaq@gmail.com**
 - ⚡ Fun fact **I think I am funny and I can bend my phalanges like a monkey**
